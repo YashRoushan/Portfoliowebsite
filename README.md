@@ -22,10 +22,6 @@
     <a href="https://github.com/YashRoushan/Portfolio/issues">Request Feature</a>
 </h3>
 
-## Built With
-
-My personal portfolio <a href="https://yashroushan.vercel.app/" target="_blank">yashroushan.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
-
 This project was built using these technologies:
 
 - React.js  
